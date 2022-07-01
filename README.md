@@ -7,7 +7,7 @@ I have graduated Highschool with 5 As for my Higher subjects and predicted 3 As 
 Want to reach out? Contact me @ zawistowska.kasia@outlook.com
 
 <br><br>
-Consider [buying me a coffee](buymeacoffee.com/zawistowskQ)
+Consider [buying me a coffee](https://www.buymeacoffee.com/zawistowskQ)
 
 <!---
 K-Zawis/K-Zawis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
