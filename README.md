@@ -7,8 +7,6 @@ My name is Kasia Zawistowska,
 
 My job at Justfone is to create apps using Dart and the Flutter framework, populate them using the Firebase database and occasionally create Google Cload Functions with Python. I am constantly learning new tools and features.
 
-I have graduated Highschool with 5 A's for my SQA Higher subjects and 2 A's for my SQA Advanced Highers (Mathematics and Computer Science).
-
 Want to reach out? Contact me @ zawistowska.kasia@outlook.com
 
 <br><br>
